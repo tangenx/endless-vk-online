@@ -1,0 +1,26 @@
+{
+  "name": "endless-vk-online",
+  "version": "1.0.0",
+  "description": "Endless online for vk.com",
+  "main": "lib/index.js",
+  "dependencies": {
+    "node-fetch": "^2.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TGXed/endless-vk-online.git"
+  },
+  "keywords": [
+    "endless",
+    "online",
+    "vk",
+    "online"
+  ],
+  "author": "TGX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TGXed/endless-vk-online/issues"
+  },
+  "homepage": "https://github.com/TGXed/endless-vk-online#readme",
+  "types": "src/index.d.ts"
+}
