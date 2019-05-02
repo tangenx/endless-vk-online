@@ -1,6 +1,6 @@
 {
   "name": "endless-vk-online",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Endless online for vk.com",
   "main": "lib/index.js",
   "dependencies": {
