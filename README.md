@@ -8,7 +8,7 @@ Lightweight npm module for creating endless VK online
 
 ## Install
 ```shell
-npm i vk-io
+npm i endless-vk-online
 ```
 
 ## Usage
