@@ -1,8 +1,8 @@
 {
   "name": "endless-vk-online",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Endless online for vk.com",
-  "main": "lib/index.js",
+  "main": "./index.js",
   "dependencies": {
     "node-fetch": "^2.5.0"
   },
@@ -22,5 +22,5 @@
     "url": "https://github.com/TGXed/endless-vk-online/issues"
   },
   "homepage": "https://github.com/TGXed/endless-vk-online#readme",
-  "types": "src/index.d.ts"
+  "types": "./index.d.ts"
 }

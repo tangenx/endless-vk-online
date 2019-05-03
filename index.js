@@ -1,7 +1,7 @@
 const fetch = require('node-fetch');
-const { VKOnlineError, VKAPIError } = require('../src/error');
+const { VKOnlineError, VKAPIError } = require('./src/error');
 
-module.exports = class VKOnline {
+class VKOnline {
     /**
      * 
      * @param {String} token - VK Token 
@@ -27,3 +27,6 @@ module.exports = class VKOnline {
         }, 300000);
     }
 };
+
+
+module.exports = VKOnline;

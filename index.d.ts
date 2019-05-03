@@ -1,4 +1,4 @@
-export default class VKOnline {
+class VKOnline {
     /**
      * @param token VK Token
      */
@@ -7,5 +7,7 @@ export default class VKOnline {
     /**
      * Start endless online
      */
-    start(): void;
-}
+    async start(): Promise<void>;
+};
+
+export = VKOnline;
